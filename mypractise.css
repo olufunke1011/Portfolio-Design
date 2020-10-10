@@ -212,12 +212,11 @@
 }
 
 .lastPara {
-    /* background-color:#252DE8; */
+   
     color: whitesmoke;
     margin-top: 10px;
     font-size: 12px;
-    margin-left: 600px;
-    
+    margin-left: 600px;    
 }
 
 
@@ -250,52 +249,3 @@
 
 
 
-/* .two{
-    display: flex;
-    flex-direction: row; 
-}
-.both{
-    width: 25%;
-}
-.image{
-     margin-right: 50px;
-}
-.home,
-.about,
-.expert,
-.conc{
-    list-style-type: none;
-    display: inline-block;
-    margin-right: 80px;
-}
-.none{
-    padding-right: 700px;
-    padding-left: 100px;
-}
-.look{
-    padding-top: 50px;
-    padding-left: 100px;
-}
-.spic{
-  text-align: right;
-  margin-bottom: 800px;
-  position: relative;
-  bottom: 300px;
-  margin-right: 200px;
-  margin-left: 700px;
-}
-.name,
-.free{
-    padding-bottom: 20px;
-    padding-right: 900px;
-}
-.cone{
-    background: #4349d3;
-    color: aliceblue;
-    border-radius: 20px;
-    padding: 5px;
-}
-.me{
-    text-align: center;
-    padding-bottom: 00px;
-} */
