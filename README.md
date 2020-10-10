@@ -12,7 +12,7 @@ https://raw.githack.com/olufunke1011/Portfolio-Design/main/practise.html
 * CSS
 
 # Visuals
-![Display _of_Portfolio-Design](/imageScreen.png "Display")
+![Display _of_Portfolio-Design](./assets/imgs/imageScreen.png "Display")
 
 # Author 
 ### Olufunke Owoseni
