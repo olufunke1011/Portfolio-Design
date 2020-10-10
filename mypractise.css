@@ -1,0 +1,289 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: 0;
+}
+
+.headcont {
+    display: flex;
+    list-style-type: none;
+    /* justify-content: space-between; */
+   
+}
+
+/* .image {
+ padding: 20px 0 0 10px;
+} */
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    /* margin-top: 100px; */
+}
+
+.home {
+    margin-left: 100px;
+    list-style-type: none;
+    margin-top: 20px;
+}
+
+.homefront {
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.intro {
+    display: flex;
+}
+
+.combo {
+     padding-top: 100px;
+     margin-left: 100px;
+}
+
+.name {
+  margin: 10px 0 30px 0;
+}
+
+.free {
+  width: 300px;
+  margin-bottom: 30px;
+
+}
+
+.button {
+    color: white;
+    background: #4349D3;
+    padding: 5px;
+    border-radius: 25px;
+}
+
+.pics1 {
+    margin-left: 300px;
+    width: 100px;
+}
+
+.aboutMe {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.imageWord {
+    display: inline-flex;
+    flex-direction: row;
+    margin: 50px 50px 50px 200px; 
+    
+}
+
+.para1 {
+    margin: 0 0 0 60px; 
+    width: 300px;
+    
+}
+
+.pics2 {
+    margin: 0 100px 0 100px;
+    width: 300px;
+}
+
+.read {
+    margin: 150px 0 0 60px ;
+    padding: 10px;
+    border-radius: 25px;
+    background: #4349D3;
+    color: #FF99FF;
+    
+}
+
+.expert {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.expertise {
+    display: flex;
+    justify-content: center;
+    margin: 0 200px 0 200px;
+}
+
+.expertises {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    margin-right: 80px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    align-items: center;
+    padding: 40px 10px 10px 10px;
+    box-shadow: 0 10px 20px 0px rgba(0, 0, 0, 0.111);
+}
+
+.design {
+    margin: 30px 0 30px 0;
+}
+
+.me{
+    text-align: center;
+    margin: 100px 0 50px 0;
+}
+
+.input {
+    display: block;
+    margin: 0 0 30px 0;
+    /* width: 98%; */
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    /* margin-right: 1000px; */
+}
+
+.form {
+    border:1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 20px 0px rgba(0, 0, 0, 0.555);
+    width: 200px;  
+    height: 210px;
+    padding: 20px 40px;
+    border-radius: 15px;
+    
+}
+
+.forms {
+    margin-left: 40%;
+}
+
+.feelFree {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.butt {
+   margin-left: 30%;
+   border-radius: 10px;
+   padding: 5px;
+   background: #4349D3;
+   color: white;
+   font-size: 8px;
+}
+
+.media {
+    width: 40px;
+    margin-right: 2%;
+    margin-top: 30px;
+    padding-left: 12px;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+} 
+
+.handle {
+    display: inline-block;
+    font-size: 12px;
+    text-align: center;
+}
+
+.handles {
+    margin-left: 20px;
+}
+
+.close {
+    border-bottom: white;
+}
+
+.foot {
+    background-color:#252DE8;
+}
+
+.Bottom {
+    margin-right: 35px;
+}
+
+.navBar {
+    margin-left: 650px;
+    font-size: 12px;
+    padding: 10px;
+    color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .two{
+    display: flex;
+    flex-direction: row; 
+}
+.both{
+    width: 25%;
+}
+.image{
+     margin-right: 50px;
+}
+.home,
+.about,
+.expert,
+.conc{
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 80px;
+}
+.none{
+    padding-right: 700px;
+    padding-left: 100px;
+}
+.look{
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.spic{
+  text-align: right;
+  margin-bottom: 800px;
+  position: relative;
+  bottom: 300px;
+  margin-right: 200px;
+  margin-left: 700px;
+}
+.name,
+.free{
+    padding-bottom: 20px;
+    padding-right: 900px;
+}
+.cone{
+    background: #4349d3;
+    color: aliceblue;
+    border-radius: 20px;
+    padding: 5px;
+}
+.me{
+    text-align: center;
+    padding-bottom: 00px;
+} */
