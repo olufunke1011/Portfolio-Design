@@ -190,15 +190,18 @@
 }
 
 .close {
-    border-bottom: white;
+    border-bottom: 2px solid white;
 }
 
 .foot {
     background-color:#252DE8;
+    
 }
 
 .Bottom {
     margin-right: 35px;
+    color: whitesmoke;
+    text-decoration: none;
 }
 
 .navBar {
@@ -206,6 +209,15 @@
     font-size: 12px;
     padding: 10px;
     color: whitesmoke;
+}
+
+.lastPara {
+    /* background-color:#252DE8; */
+    color: whitesmoke;
+    margin-top: 10px;
+    font-size: 12px;
+    margin-left: 600px;
+    
 }
 
 
